@@ -1,0 +1,24 @@
+# Python virtual environment
+venv/
+custom-backend/venv/
+
+# Environment variables / secrets
+.env
+
+# Python cache
+__pycache__/
+custom-backend/__pycache__/
+*.pyc
+*.pyo
+
+# Local/generated files
+downloaded_*.txt
+storage/
+
+# IDE / editor files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
